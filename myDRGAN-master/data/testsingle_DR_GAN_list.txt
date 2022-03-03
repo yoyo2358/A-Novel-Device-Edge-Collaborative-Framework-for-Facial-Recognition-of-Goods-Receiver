@@ -1,0 +1,5 @@
+/data5/lixinpeng/dataset/multiPIE/test/201_01_01_041_00.png 200 0
+/data5/lixinpeng/dataset/multiPIE/test/201_01_01_041_01.png 200 0
+/data5/lixinpeng/dataset/multiPIE/test/201_01_01_041_02.png 200 0
+/data5/lixinpeng/dataset/multiPIE/test/201_01_01_041_03.png 200 0
+/data5/lixinpeng/dataset/multiPIE/test/201_01_01_041_04.png 200 0
