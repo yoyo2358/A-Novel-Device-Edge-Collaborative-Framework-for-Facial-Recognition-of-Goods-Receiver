@@ -3,7 +3,7 @@ Face detection, pose recognition and face frontalization are all repositories fr
 
 Face detection：YonghaoHe/LFFD-A-Light-and-Fast-Face-Detector-for-Edge-Devices.
 
-Pose recognition:CMU-Perceptual-Computing-Lab/openpose.
+Pose recognition: CMU-Perceptual-Computing-Lab/openpose.
 
-Face frontalization:Sampson-Lee/myDRGAN.
+Face frontalization: Sampson-Lee/myDRGAN.
 
